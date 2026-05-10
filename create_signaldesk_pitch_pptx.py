@@ -190,7 +190,7 @@ SLIDES = [
         "type": "close",
         "title": "Dobleu",
         "subtitle": "A sharper platform for recruiting, qualifying, and operating participant networks at scale.",
-        "contact": "contact@dobleu.ai",
+        "contact": "contact@dobleu.net",
     },
 ]
 
